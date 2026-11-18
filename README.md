@@ -260,4 +260,4 @@ Data yang diperoleh telah melalui proses pembersihan, pemeriksaan kualitas, penc
 
 Hasil akhir disimpan dalam format CSV, JSON, Excel, dan ZIP agar data dapat diperiksa, digunakan kembali, serta didokumentasikan secara terstruktur.
 
-**Catatan akhir:** Kepastian izin dan lisensi penggunaan konten Times Malang masih belum terverifikasi. Hal tersebut merupakan keterbatasan yang didokumentasikan secara terbuka dalam proyek ini.
+**Catatan akhir:** Kepastian izin dan lisensi penggunaan konten Times Malang masih belum terverifikasi. Hal tersebut merupakan keterbatasan yang didokumentasikan secara terbuka dalam proyek ini. oke
