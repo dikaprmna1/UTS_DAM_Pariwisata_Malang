@@ -1,0 +1,10 @@
+﻿Aspek,Kriteria,Bukti,Status
+Sumber data,Ketiga sumber memiliki asal dan URL yang dicatat,"Open Dataset, Open-Meteo, dan Times Malang",Terpenuhi
+Lisensi dan izin,"Lisensi Open Dataset perlu ditinjau, Open-Meteo CC BY 4.0, izin Times Malang belum terverifikasi",Provenance masing-masing sumber,Perlu perhatian
+Perlindungan privasi,Tidak mengambil data pribadi individu secara sengaja,Data berisi informasi hotel dan cuaca,Terpenuhi
+Data sensitif,Tidak mengumpulkan informasi sensitif individu,Kolom dataset tidak berisi data sensitif individu,Terpenuhi
+Minimalisasi data,Data yang diambil dibatasi pada kebutuhan tugas,Informasi hotel dan variabel cuaca,Terpenuhi
+Robots.txt,Halaman hotel Times Malang tidak termasuk halaman yang diblokir,Pemeriksaan robots.txt Times Malang,Terpenuhi secara teknis
+Batas permintaan,Scraping 3 halaman menggunakan jeda pada proses utama; pengambilan ulang HTML untuk arsip perlu diperhatikan,Catatan proses scraping,Perlu diperiksa
+Keamanan penyimpanan,Data disimpan di Google Colab dan Google Drive,Folder data dan metadata,Terpenuhi
+Transparansi,"Sumber, tanggal akuisisi, ukuran file, dan MD5 dicatat",File provenance dan metadata,Terpenuhi

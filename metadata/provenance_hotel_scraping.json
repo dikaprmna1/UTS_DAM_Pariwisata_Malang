@@ -1,0 +1,25 @@
+{
+    "nama_dataset": "Hotel dan Penginapan Kabupaten Malang",
+    "sumber": "East Java Tourism",
+    "url_sumber": "https://www.east-java.com/tourism/malang/beach/hotels.html",
+    "url_robots": "https://www.east-java.com/robots.txt",
+    "status_robots": 404,
+    "keterangan_robots": "robots.txt tidak ditemukan pada URL yang diperiksa; izin scraping tidak dapat dipastikan dari robots.txt",
+    "tanggal_akses": "2026-11-18T13:18:09.875251",
+    "metode_akuisisi": "Web Scraping menggunakan Requests dan BeautifulSoup",
+    "metode_pengambilan": "Mengambil informasi dari elemen HTML paragraf dan strong",
+    "lisensi": "Belum terverifikasi",
+    "wilayah": "Kabupaten Malang, Jawa Timur",
+    "jumlah_data": 22,
+    "jumlah_kolom": 2,
+    "nama_kolom": [
+        "Nama_Hotel",
+        "Informasi"
+    ],
+    "file_raw": "east_java_malang_hotels_raw.html",
+    "ukuran_raw_bytes": 32441,
+    "md5_raw": "d2810be7aab07e555b4e4d91fe8ba33d",
+    "file_processed": "hotel_malang_scraping.csv",
+    "ukuran_processed_bytes": 2541,
+    "md5_processed": "4c820b97d6b693be55f49481a4a8166c"
+}

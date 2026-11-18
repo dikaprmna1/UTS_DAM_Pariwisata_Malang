@@ -1,0 +1,31 @@
+{
+    "nama_dataset": "Data Hotel dan Penginapan Kabupaten Malang",
+    "sumber": "Times Malang",
+    "url_sumber": [
+        "https://timesmalang.com/penginapan/hotel",
+        "https://timesmalang.com/penginapan/hotel/halaman-2",
+        "https://timesmalang.com/penginapan/hotel/halaman-3"
+    ],
+    "url_robots_txt": "https://timesmalang.com/robots.txt",
+    "tanggal_akses": "2026-11-18T13:50:01.774441",
+    "metode_akuisisi": "Web Scraping menggunakan Requests dan BeautifulSoup",
+    "jenis_website": "Website dengan konten HTML statis",
+    "aturan_robots_txt": "User-agent: *; Disallow: /-xca/; halaman penginapan hotel tidak termasuk path yang diblokir",
+    "lisensi": "Belum terverifikasi",
+    "catatan_etika": "Ketentuan penggunaan situs perlu diperiksa. Robots.txt bukan bukti izin penggunaan data.",
+    "wilayah": "Kabupaten Malang",
+    "jumlah_data": 9,
+    "jumlah_kolom": 2,
+    "nama_kolom": [
+        "Nama_Hotel",
+        "URL_Detail"
+    ],
+    "file_raw": "/content/data/raw/timesmalang_hotel_raw.html",
+    "ukuran_raw_byte": 797630,
+    "md5_raw": "c45ea44df0f664a2a2d3160cb78d005e",
+    "file_hasil": "/content/data/processed/hotel_malang_timesmalang.csv",
+    "ukuran_hasil_byte": 1391,
+    "md5_hasil": "9917aa2d7d264b9180c53e9eb8f8dea8",
+    "teknik_ekstraksi": "Mengambil tautan hotel dari halaman 1, 2, dan 3, kemudian menyaring lokasi Kabupaten Malang.",
+    "jumlah_request": 3
+}

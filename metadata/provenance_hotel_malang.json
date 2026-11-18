@@ -1,0 +1,17 @@
+{
+    "nama_dataset": "Data Hotel dan Penginapan Kabupaten Malang",
+    "sumber_instansi": "Dinas Pariwisata dan Kebudayaan Kabupaten Malang",
+    "portal": "data.go.id",
+    "url_sumber": "https://data.go.id/dataset/dataset/data-hotel-penginapan-di-kabupaten-malang",
+    "metode_akuisisi": "Unduh manual",
+    "tanggal_pencatatan": "2026-11-18T12:32:52.991783",
+    "file_sumber": "Data Hotel - Penginapan di Kabupaten Malang.xlsx",
+    "file_hasil": "data_hotel_malang_100.csv",
+    "jumlah_record": 100,
+    "jumlah_kolom": 4,
+    "format_sumber": "XLSX",
+    "format_hasil": "CSV",
+    "ukuran_file_sumber_byte": 10977,
+    "ukuran_file_hasil_byte": 6633,
+    "md5_file_sumber": "ceb76d7f634fa1ad3e4bd34ec1fd659b"
+}

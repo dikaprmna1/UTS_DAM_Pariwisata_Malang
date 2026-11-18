@@ -1,0 +1,32 @@
+{
+    "nama_dataset": "Data Hotel Kabupaten Malang Hasil Merge",
+    "sumber_data": [
+        "Open Dataset - Data Hotel Kabupaten Malang",
+        "Open-Meteo Historical Weather API"
+    ],
+    "metode_penggabungan": "Merge berdasarkan kolom Wilayah",
+    "kolom_penggabungan": "Wilayah",
+    "jenis_merge": "left",
+    "validasi_merge": "many_to_one",
+    "jumlah_data": 100,
+    "jumlah_kolom": 11,
+    "nama_kolom": [
+        "No",
+        "Nama_Hotel",
+        "Alamat",
+        "Keterangan",
+        "Wilayah",
+        "temperature_2m_mean",
+        "temperature_2m_max",
+        "temperature_2m_min",
+        "precipitation_sum",
+        "wind_speed_10m_max",
+        "relative_humidity_2m_mean"
+    ],
+    "jumlah_data_kosong": 0,
+    "jumlah_duplikat": 0,
+    "ukuran_file_bytes": 19459,
+    "md5": "1211e71cc2cd9be36a030134f6425ffb",
+    "tanggal_pembuatan": "2026-11-18T13:30:20.088667",
+    "lokasi_file": "/content/data/processed/data_hotel_malang_merged.csv"
+}
